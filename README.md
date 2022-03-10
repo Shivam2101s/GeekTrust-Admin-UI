@@ -1,6 +1,6 @@
 # Geektrust | Admin UI
 
-This is the solution of Geektrust front-end coding chanllenge (Admin UI), built using react app and and Design  
+This is the solution of Geektrust front-end coding chanllenge (Admin UI), built using react app and Ant Design.  
 
 ## Deployment Link
 
