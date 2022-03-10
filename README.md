@@ -21,10 +21,11 @@ You may also see any lint errors in the console.
 ## Landing Page
 
 <img src="https://github.com/Shivam2101s/images/blob/main/geektrust-admin-ui.jpg?raw=true"/>
+<img src="https://github.com/Shivam2101s/images/blob/main/geektrust-admin-ui-2.jpg?raw=true />
 
 ## Tech stack used:
 
-<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png>
+<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" />
 
 
 
