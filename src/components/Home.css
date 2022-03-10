@@ -1,0 +1,36 @@
+#delete-selected-btn {
+  border: 1px solid red;
+  background-color: white;
+  color: red;
+  padding:2px 5px;
+  border-radius: 15px;
+  margin-left: 30px;
+  position: relative;
+  bottom: 7vh;
+  right: 3vh;
+  transition: 0.8s;
+}
+#delete-selected-btn:hover{
+transform: scale3d(1.1,1.1,1.1);
+background-color: rgb(243, 50, 50);
+color: white;
+}
+.delete_btn {
+  transition: 0.3s;
+}
+.delete_btn:hover {
+  color: red;
+}
+
+#table_div {
+  width: 80%;
+  margin: 0 auto;
+  padding: 10px;
+  transition: 0.9s;
+}
+#table_div:hover {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#page_btn{
+    border: 1px solid red;
+}
